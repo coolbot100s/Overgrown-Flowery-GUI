@@ -7,3 +7,5 @@ Also these completely unrelated SVGs, for anyone reading this i genuinely apolog
 ![Mogswamp Modrinth Collection](https://github.com/user-attachments/assets/a7966614-f599-4a78-be17-51551e91cbdf)
 ![Robella Badge](https://github.com/user-attachments/assets/d67c9646-f6dd-4fc4-84b2-acbed6c9e247)
 ![Frogcrafing Badge](https://github.com/user-attachments/assets/cb81cb53-3755-40e6-9a74-96a2321be8af)
+
+![BannerFull](https://github.com/user-attachments/assets/620d2b38-144b-41fb-b285-27778715fc97)
