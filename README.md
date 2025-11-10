@@ -13,3 +13,5 @@ Also these completely unrelated SVGs, for anyone reading this i genuinely apolog
 
 
 ![QuestionMarks](https://github.com/user-attachments/assets/43325194-f0d5-4b9f-8434-cc50c0264630)
+
+<img width="1020" height="71" alt="image" src="https://github.com/user-attachments/assets/9528fd84-9a5d-4336-9934-5db81cd715c1" />
